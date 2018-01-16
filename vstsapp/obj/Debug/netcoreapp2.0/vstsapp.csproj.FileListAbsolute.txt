@@ -1,0 +1,11 @@
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\bin\Debug\netcoreapp2.0\vstsapp.deps.json
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\bin\Debug\netcoreapp2.0\vstsapp.runtimeconfig.json
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\bin\Debug\netcoreapp2.0\vstsapp.runtimeconfig.dev.json
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\bin\Debug\netcoreapp2.0\vstsapp.dll
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\bin\Debug\netcoreapp2.0\vstsapp.pdb
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\obj\Debug\netcoreapp2.0\vstsapp.csprojResolveAssemblyReference.cache
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\obj\Debug\netcoreapp2.0\vstsapp.csproj.CoreCompileInputs.cache
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\obj\Debug\netcoreapp2.0\vstsapp.AssemblyInfoInputs.cache
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\obj\Debug\netcoreapp2.0\vstsapp.AssemblyInfo.cs
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\obj\Debug\netcoreapp2.0\vstsapp.dll
+C:\Users\yujhong\source\repos\vstsapp\vstsapp\obj\Debug\netcoreapp2.0\vstsapp.pdb
